@@ -4,8 +4,12 @@
 *.pem
 *.secret
 
+# Confidential knowledge base
+knowledge-base/
+
 # Vector store data
 vectorstore/
+vector_db/
 
 # Python
 __pycache__/
